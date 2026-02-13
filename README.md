@@ -48,7 +48,7 @@ streamlit run dashboard.py
 ## Project Structure
 
 ```
-├── Coinbase Diversification Analysis # Main deliverable
+├── Coinbase Diversification Analysis.pdf # Main deliverable
 ├── dashboard.py              # Streamlit dashboard
 ├── prioritization.py         # Scoring engine, generates the prioritization matrix
 ├── requirements.txt
