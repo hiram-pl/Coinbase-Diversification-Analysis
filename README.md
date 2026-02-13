@@ -70,3 +70,4 @@ streamlit run dashboard.py
 - **Reddit**: ~500 posts from r/CoinBase, categorized via NLP
 - **Market sizing**: Grand View Research, Galaxy Research, Statista, Everstake, 360iResearch
 - **Competitor features**: Product pages and documentation for Coinbase, Robinhood, Binance, Kraken, CashApp
+# Coinbase-Diversification-Analysis
