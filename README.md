@@ -71,3 +71,4 @@ streamlit run dashboard.py
 - **Market sizing**: Grand View Research, Galaxy Research, Statista, Everstake, 360iResearch
 - **Competitor features**: Product pages and documentation for Coinbase, Robinhood, Binance, Kraken, CashApp
 # Coinbase-Diversification-Analysis
+# Coinbase-Diversification-Analysis
